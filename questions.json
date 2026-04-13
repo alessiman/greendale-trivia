@@ -1,17 +1,17 @@
 {
-"easy": [
+  "easy": [
     {
-      "q": "What is the name of the community college in the show?",
-      "options": ["Greendale", "City College", "Riverside Community College", "Hawthorne College"],
+      "q": "What is the name of the community college?",
+      "options": ["Greendale", "City College", "Riverside", "Hawthorne"],
       "answer": 0
     },
     {
-      "q": "Who is the former lawyer disbarred and forced to attend Greendale?",
-      "options": ["Abed Nadir", "Jeff Winger", "Troy Barnes", "Pierce Hawthorne"],
+      "q": "Who is the former lawyer in the study group?",
+      "options": ["Abed", "Jeff Winger", "Troy", "Pierce"],
       "answer": 1
     },
     {
-      "q": "What is the famous catchphrase Troy and Abed say together?",
+      "q": "What is Troy and Abed's famous catchphrase?",
       "options": ["Cool cool cool", "Pop Pop!", "Streets ahead", "Troy and Abed in the Morning!"],
       "answer": 3
     },
@@ -96,217 +96,39 @@
       "answer": 0
     },
     {
-      "q": "What instrument does Troy play in the air conditioning repair school episode?",
-      "options": ["Guitar", "Trombone", "Drums", "None"],
-      "answer": 1
-    },
-    {
       "q": "What is the human being mascot at Greendale called?",
       "options": ["The Human Being", "Greendale Goat", "Zulu Warrior", "Big Chief Drunky"],
       "answer": 0
-    },
-    {
-      "q": "What does Abed say when he wants to do a simulation?",
-      "options": ["Cool cool cool", "Pop Pop!", "Let's do a simulation", "Troy and Abed in the Morning!"],
-      "answer": 2
-    },
-    {
-      "q": "What is the first paintball episode called?",
-      "options": ["Modern Warfare", "A Fistful of Paintballs", "Advanced Introduction to Finality", "Epidemiology"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the episode where the group gets trapped in a zombie outbreak?",
-      "options": ["Epidemiology", "Modern Warfare", "The Darkest Timeline", "Basic Rocket Science"],
-      "answer": 0
-    },
-    {
-      "q": "Who says 'I see your value now' to Jeff?",
-      "options": ["Annie", "Britta", "Abed", "Shirley"],
-      "answer": 0
-    },
-    {
-      "q": "What is Troy's biggest fear in one episode?",
-      "options": ["Rats", "Butterflies", "Commitment", "LeVar Burton"],
-      "answer": 3
-    },
-    {
-      "q": "What is the name of the study room they always use?",
-      "options": ["Study Room F", "Study Room B", "The Library Study Room", "Greendale Study Room"],
-      "answer": 0
-    },
-    {
-      "q": "What does Shirley often bake and bring to the group?",
-      "options": ["Sandwiches", "Brownies", "Cookies", "Pies"],
-      "answer": 0
-    },
-    {
-      "q": "What is Chang's first name?",
-      "options": ["Ben", "Kevin", "Senor", "Chang"],
-      "answer": 0
-    },
-    {
-      "q": "What is the Dean's catchphrase when he is excited?",
-      "options": ["'What up, Greendale!'", "'Cool cool cool'", "'Pop Pop!'", "'Streets ahead!'"],
-      "answer": 0
     }
-  ]
   ],
   "medium": [
     {
-      "q": "What is the name of the community college in the show?",
-      "options": ["Greendale", "City College", "Riverside Community College", "Hawthorne College"],
+      "q": "What is the name of Troy and Abed's morning show?",
+      "options": ["Troy and Abed in the Morning", "Abed and Troy TV", "The Dreamatorium Show", "Inspector Spacetime News"],
       "answer": 0
     },
     {
-      "q": "Who is the former lawyer disbarred and forced to attend Greendale?",
-      "options": ["Abed Nadir", "Jeff Winger", "Troy Barnes", "Pierce Hawthorne"],
+      "q": "What is the name of the giant blanket fort built by Troy and Abed?",
+      "options": ["Fort Hawthorne", "The Dreamatorium", "Blanket Kingdom", "The Greendale Fortress"],
       "answer": 1
     },
     {
-      "q": "What is the famous catchphrase Troy and Abed say together?",
-      "options": ["Cool cool cool", "Pop Pop!", "Streets ahead", "Troy and Abed in the Morning!"],
-      "answer": 3
-    },
-    {
-      "q": "What is Annie Edison's last name?",
-      "options": ["Edison", "Bennett", "Hawthorne", "Winger"],
+      "q": "What game turns into a massive paintball war in season 1?",
+      "options": ["Modern Warfare", "Dungeons & Dragons", "Tag", "The Floor is Lava"],
       "answer": 0
     },
     {
-      "q": "What is the name of the study group?",
-      "options": ["The Greendale Seven", "The Breakfast Club", "The Save Greendale Committee", "The Study Group"],
-      "answer": 3
-    },
-    {
-      "q": "Who is the Dean of Greendale Community College?",
-      "options": ["Craig Pelton", "Pelton Craig", "Dustin Pelton", "Robert Pelton"],
-      "answer": 0
-    },
-    {
-      "q": "What does Abed love more than almost anything?",
-      "options": ["Video games", "TV shows and movies", "Inspector Spacetime", "Both TV shows and movies equally"],
-      "answer": 3
-    },
-    {
-      "q": "What is Pierce Hawthorne's last name?",
-      "options": ["Hawthorne", "Edison", "Barnes", "Winger"],
-      "answer": 0
-    },
-    {
-      "q": "In which class did the study group first meet?",
-      "options": ["Spanish 101", "Biology 101", "Anthropology 101", "Law"],
-      "answer": 0
-    },
-    {
-      "q": "What is Greendale's main rival school?",
-      "options": ["City College", "State University", "Harvard", "Yale"],
-      "answer": 0
-    },
-    {
-      "q": "What word does Britta frequently mispronounce as 'bagel'?",
-      "options": ["Bagel", "Schedule", "Water", "Coffee"],
-      "answer": 0
-    },
-    {
-      "q": "What is Shirley's last name?",
-      "options": ["Bennett", "Edison", "Hawthorne", "Winger"],
-      "answer": 0
-    },
-    {
-      "q": "What is Troy Barnes's famous nickname from his football days?",
-      "options": ["The Troy-ster", "Thunderpants", "Big T", "The Human Being"],
+      "q": "Who temporarily becomes the leader of the study group when Jeff is gone?",
+      "options": ["Britta", "Annie", "Abed", "Shirley"],
       "answer": 1
     },
     {
-      "q": "What is the name of Abed's favorite TV show?",
-      "options": ["Inspector Spacetime", "Lost", "The Office", "Friends"],
-      "answer": 0
-    },
-    {
-      "q": "What does Jeff Winger often say is 'streets ahead'?",
-      "options": ["Coolness", "Everything", "The study group", "Greendale"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the blanket fort empire built by Troy and Abed?",
-      "options": ["Fort Hawthorne", "The Dreamatorium", "Blanket Kingdom", "The Greendale Fort"],
-      "answer": 1
-    },
-    {
-      "q": "What is the Dean's first name?",
-      "options": ["Craig", "Dustin", "Robert", "Pelton"],
-      "answer": 0
-    },
-    {
-      "q": "What is Annie's original major before she changes it?",
-      "options": ["Forensics", "Business", "Psychology", "Spanish"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of Pierce's company?",
-      "options": ["Hawthorne Wipes", "Pierce's Pies", "Greendale Inc", "Study Group Inc"],
-      "answer": 0
-    },
-    {
-      "q": "What instrument does Troy play in the air conditioning repair school episode?",
-      "options": ["Guitar", "Trombone", "Drums", "None"],
-      "answer": 1
-    },
-    {
-      "q": "What is the human being mascot at Greendale called?",
-      "options": ["The Human Being", "Greendale Goat", "Zulu Warrior", "Big Chief Drunky"],
-      "answer": 0
-    },
-    {
-      "q": "What does Abed say when he wants to do a simulation?",
-      "options": ["Cool cool cool", "Pop Pop!", "Let's do a simulation", "Troy and Abed in the Morning!"],
-      "answer": 2
-    },
-    {
-      "q": "What is the first paintball episode called?",
-      "options": ["Modern Warfare", "A Fistful of Paintballs", "Advanced Introduction to Finality", "Epidemiology"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the episode where the group gets trapped in a zombie outbreak?",
+      "q": "What is the name of the episode featuring a zombie outbreak at Greendale?",
       "options": ["Epidemiology", "Modern Warfare", "The Darkest Timeline", "Basic Rocket Science"],
       "answer": 0
-    },
-    {
-      "q": "Who says 'I see your value now' to Jeff?",
-      "options": ["Annie", "Britta", "Abed", "Shirley"],
-      "answer": 0
-    },
-    {
-      "q": "What is Troy's biggest fear in one episode?",
-      "options": ["Rats", "Butterflies", "Commitment", "LeVar Burton"],
-      "answer": 3
-    },
-    {
-      "q": "What is the name of the study room they always use?",
-      "options": ["Study Room F", "Study Room B", "The Library Study Room", "Greendale Study Room"],
-      "answer": 0
-    },
-    {
-      "q": "What does Shirley often bake and bring to the group?",
-      "options": ["Sandwiches", "Brownies", "Cookies", "Pies"],
-      "answer": 0
-    },
-    {
-      "q": "What is Chang's first name?",
-      "options": ["Ben", "Kevin", "Senor", "Chang"],
-      "answer": 0
-    },
-    {
-      "q": "What is the Dean's catchphrase when he is excited?",
-      "options": ["'What up, Greendale!'", "'Cool cool cool'", "'Pop Pop!'", "'Streets ahead!'"],
-      "answer": 0
     }
-  ]
   ],
   "hard": [
-"hard": [
     {
       "q": "What is the full name of Abed's favorite TV show?",
       "options": ["Inspector Spacetime", "The Inspector", "Doctor Spacetime", "Time Cop"],
@@ -316,146 +138,6 @@
       "q": "Who created the concept of the 'Darkest Timeline'?",
       "options": ["Abed", "Jeff", "Britta", "Pierce"],
       "answer": 0
-    },
-    {
-      "q": "In which episode does the group sing 'Somewhere Out There' during a Christmas special?",
-      "options": ["Regional Holiday Music", "Advanced Dungeons & Dragons", "Comparative Religion", "The Art of Discourse"],
-      "answer": 0
-    },
-    {
-      "q": "What was Greendale's original mascot before 'The Human Being'?",
-      "options": ["Grizzly Bear", "Big Chief Drunky", "Zulu Warrior", "The Greendale Goat"],
-      "answer": 1
-    },
-    {
-      "q": "What is the name of the paintball episode trilogy across multiple seasons?",
-      "options": ["Modern Warfare trilogy", "The Paintball Wars", "Greendale Paintball", "Campus Warfare"],
-      "answer": 0
-    },
-    {
-      "q": "What is the exact title of the D&D episode?",
-      "options": ["Advanced Dungeons & Dragons", "The Darkest Timeline", "Epidemiology", "Introduction to Finality"],
-      "answer": 0
-    },
-    {
-      "q": "What song plays during the final paintball battle in the season 1 episode 'Modern Warfare'?",
-      "options": ["Fortunate Son", "Don't Stop Believin'", "Eye of the Tiger", "We Will Rock You"],
-      "answer": 0
-    },
-    {
-      "q": "Who was the first person bitten during the zombie outbreak in 'Epidemiology'?",
-      "options": ["Troy", "Jeff", "Annie", "Britta"],
-      "answer": 0
-    },
-    {
-      "q": "What is written on the Greendale school flag?",
-      "options": ["'E Pluribus Anus'", "'Greendale Forever'", "'Six Seasons and a Movie'", "'Pop Pop!'"],
-      "answer": 0
-    },
-    {
-      "q": "Which actor would Abed hire to play himself in a movie about the study group?",
-      "options": ["Donald Glover", "A celebrity lookalike", "Himself", "Joel McHale"],
-      "answer": 1
-    },
-    {
-      "q": "What is the name of the episode where the group forms the Save Greendale Committee?",
-      "options": ["Introduction to Finality", "The Darkest Timeline", "Basic Rocket Science", "Advanced Introduction to Finality"],
-      "answer": 3
-    },
-    {
-      "q": "What is Pierce's full company name?",
-      "options": ["Hawthorne Wipes", "Pierce Hawthorne Enterprises", "Hawthorne Moist Towelettes", "Pierce's Premium Wipes"],
-      "answer": 2
-    },
-    {
-      "q": "What is the name of the air conditioning repair school that Troy attends?",
-      "options": ["Air Conditioning Repair Annex", "HVAC Academy", "Cool Air School", "The Annex"],
-      "answer": 0
-    },
-    {
-      "q": "What is Abed's catchphrase when something exciting happens in a TV-like way?",
-      "options": ["Cool cool cool", "Pop Pop!", "This is just like...", "Let's do a simulation"],
-      "answer": 2
-    },
-    {
-      "q": "What is the name of the device Abed uses to enter different timelines?",
-      "options": ["The Dreamatorium", "The Timeline Simulator", "The Abed Machine", "The Inspector Detector"],
-      "answer": 0
-    },
-    {
-      "q": "Who becomes the dictator of Greendale in the Darkest Timeline?",
-      "options": ["Jeff", "Abed", "Chang", "Dean Pelton"],
-      "answer": 2
-    },
-    {
-      "q": "What is the exact name of the episode where the group plays a game of 'The Floor is Lava'?",
-      "options": ["Basic Rocket Science", "The Floor is Lava", "Advanced Dungeons & Dragons", "Epidemiology"],
-      "answer": 0
-    },
-    {
-      "q": "What is Britta's full name?",
-      "options": ["Britta Perry", "Britta Stone", "Britta Edison", "Britta Bennett"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the secret society at Greendale that Jeff joins?",
-      "options": ["The Greendale Mafia", "The Save Greendale Committee", "The Night Owls", "The Board of Trustees"],
-      "answer": 2
-    },
-    {
-      "q": "What does Abed say is his 'superpower'?",
-      "options": ["TV knowledge", "Predicting plot twists", "Being meta", "All of the above"],
-      "answer": 3
-    },
-    {
-      "q": "What is the title of the season 3 finale?",
-      "options": ["Introduction to Finality", "The Darkest Timeline", "Basic Rocket Science", "Advanced Introduction to Finality"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the episode where Chang becomes a security guard?",
-      "options": ["Chang's Army", "The Changening", "Security Guard Chang", "Advanced Criminal Law"],
-      "answer": 0
-    },
-    {
-      "q": "What is the real reason Jeff was disbarred?",
-      "options": ["Faking his college degree", "Bribery", "Embezzlement", "Lying under oath"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the puppet that Abed and Troy use in one episode?",
-      "options": ["The Puppet", "Abed's Puppet", "Troy and Abed's Puppet Show", "The Inspector Puppet"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the holiday episode where the group fights over a secret Santa gift?",
-      "options": ["Comparative Religion", "Regional Holiday Music", "The Art of Discourse", "Advanced Dungeons & Dragons"],
-      "answer": 1
-    },
-    {
-      "q": "What does the Dean call his office decoration that changes every episode?",
-      "options": ["The Dean's Baby", "The Dean's Costume", "The Dean's Office", "The Dean's Chair"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the episode where the group goes to a bottle episode in the study room?",
-      "options": ["Cooperative Calligraphy", "The Bottle Episode", "Advanced Introduction to Finality", "The Darkest Timeline"],
-      "answer": 0
-    },
-    {
-      "q": "What is the full name of the inspector from Inspector Spacetime?",
-      "options": ["Inspector Spacetime", "The Inspector", "Inspector Reginald", "Inspector Gadget"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the rival paintball team leader from City College?",
-      "options": ["The Warlord", "The Commander", "The Squirrel", "The City College Leader"],
-      "answer": 0
-    },
-    {
-      "q": "What does Abed say when he realizes something is 'just like a TV show'?",
-      "options": ["This is just like...", "Cool cool cool", "Pop Pop!", "Let's do a simulation"],
-      "answer": 0
     }
-  ]  ]
+  ]
 }
