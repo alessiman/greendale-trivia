@@ -1,15 +1,4 @@
 {
-  "easy": [
-    {
-      "q": "What is the name of the community college?",
-      "options": ["Greendale", "City College", "Riverside", "Hawthorne"],
-      "answer": 0
-    },
-    {
-      "q": "Who is the former lawyer in the study group?",
-      "options": ["Abed", "Jeff Winger", "Troy", "Pierce"],
-      "answer": 1
-    }
 "easy": [
     {
       "q": "What is the name of the community college in the show?",
@@ -164,7 +153,6 @@
   ]
   ],
   "medium": [
-"easy": [
     {
       "q": "What is the name of the community college in the show?",
       "options": ["Greendale", "City College", "Riverside Community College", "Hawthorne College"],
