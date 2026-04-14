@@ -29,26 +29,6 @@
       "q": "Who is the Dean of Greendale Community College?",
       "options": ["Craig Pelton", "Pelton Craig", "Dustin Pelton", "Robert Pelton"],
       "answer": 0
-    },
-    {
-      "q": "What does Abed love more than almost anything?",
-      "options": ["Video games", "TV shows and movies", "Inspector Spacetime", "Both TV shows and movies equally"],
-      "answer": 3
-    },
-    {
-      "q": "What is Pierce Hawthorne's last name?",
-      "options": ["Hawthorne", "Edison", "Barnes", "Winger"],
-      "answer": 0
-    },
-    {
-      "q": "In which class did the study group first meet?",
-      "options": ["Spanish 101", "Biology 101", "Anthropology 101", "Law"],
-      "answer": 0
-    },
-    {
-      "q": "What is Greendale's main rival school?",
-      "options": ["City College", "State University", "Harvard", "Yale"],
-      "answer": 0
     }
   ],
   "medium": [
