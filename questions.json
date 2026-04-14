@@ -49,56 +49,6 @@
       "q": "What is Greendale's main rival school?",
       "options": ["City College", "State University", "Harvard", "Yale"],
       "answer": 0
-    },
-    {
-      "q": "What word does Britta frequently mispronounce as 'bagel'?",
-      "options": ["Bagel", "Schedule", "Water", "Coffee"],
-      "answer": 0
-    },
-    {
-      "q": "What is Shirley's last name?",
-      "options": ["Bennett", "Edison", "Hawthorne", "Winger"],
-      "answer": 0
-    },
-    {
-      "q": "What is Troy Barnes's famous nickname from his football days?",
-      "options": ["The Troy-ster", "Thunderpants", "Big T", "The Human Being"],
-      "answer": 1
-    },
-    {
-      "q": "What is the name of Abed's favorite TV show?",
-      "options": ["Inspector Spacetime", "Lost", "The Office", "Friends"],
-      "answer": 0
-    },
-    {
-      "q": "What does Jeff Winger often say is 'streets ahead'?",
-      "options": ["Coolness", "Everything", "The study group", "Greendale"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of the blanket fort empire built by Troy and Abed?",
-      "options": ["Fort Hawthorne", "The Dreamatorium", "Blanket Kingdom", "The Greendale Fort"],
-      "answer": 1
-    },
-    {
-      "q": "What is the Dean's first name?",
-      "options": ["Craig", "Dustin", "Robert", "Pelton"],
-      "answer": 0
-    },
-    {
-      "q": "What is Annie's original major before she changes it?",
-      "options": ["Forensics", "Business", "Psychology", "Spanish"],
-      "answer": 0
-    },
-    {
-      "q": "What is the name of Pierce's company?",
-      "options": ["Hawthorne Wipes", "Pierce's Pies", "Greendale Inc", "Study Group Inc"],
-      "answer": 0
-    },
-    {
-      "q": "What is the human being mascot at Greendale called?",
-      "options": ["The Human Being", "Greendale Goat", "Zulu Warrior", "Big Chief Drunky"],
-      "answer": 0
     }
   ],
   "medium": [
